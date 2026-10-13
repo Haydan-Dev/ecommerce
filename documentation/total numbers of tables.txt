@@ -1,0 +1,6 @@
+1.users
+2.products
+3.order
+4.category
+5.cart_items
+6.order_items
